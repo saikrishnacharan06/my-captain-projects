@@ -1,3 +1,4 @@
+"""project1"""
 num=int(input('type a number:'))
 a=0
 b=1
