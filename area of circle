@@ -1,0 +1,5 @@
+#1
+r=input('radius of the circle: ')
+r=float(r)
+b=3.142857*(r)**2
+print(b)
